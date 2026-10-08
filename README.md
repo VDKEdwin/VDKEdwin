@@ -1,10 +1,15 @@
 <p align="center">
-  <a href="https://github.com/VDKEdwin">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="mjmoon.gif" alt="Moonwalk" width="120">
+</p>
+
+<p align="center">
+  <strong>VDKEdwin | Full Stack Developer</strong>
+  <br>
+  Java • Spring Boot • React Native • TypeScript
 </p>
 
 ---
+
 
 ### Professional Profile
 
